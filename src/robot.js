@@ -22,9 +22,9 @@ export const robot = [
 
   {
     id: 4,
-    name: "Rodsac dantin",
-    username: "rossy",
-    email: "rod.dantin@gmail.com"
+    name: "Iyanuoluwa Adesunloye",
+    username: "Sweetie mwah",
+    email: "iyanu.adesunloye@gmail.com"
   },
 
   {
